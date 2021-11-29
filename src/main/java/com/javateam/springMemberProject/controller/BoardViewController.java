@@ -59,6 +59,8 @@ public class BoardViewController {
 		model.addAttribute("page", page);
 		model.addAttribute("searchYN", searchYN);
 		
+		model.addAttribute("searchVO", searchVO);
+		
 		return "/board/boardView";
 	}
 
