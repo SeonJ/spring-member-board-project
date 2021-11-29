@@ -41,9 +41,18 @@
 		</table>
 		
 		<br> <br> 
-		<!-- 이전 페이지 이동 -->
-		<input type="button" class="btn btn-primary mr-3" value="이전 페이지"
-				onclick="location.href='${contextPath}/board/board_list.do?page=${page}'" >
+		<!-- 이전 페이지 이동 : 추가 -->
+		<!-- 검색이 아닌 경우 -->
+		<c:if test="${searchYN == 'N'}">
+			<input type="button" class="btn btn-primary mr-3" value="이전 페이지"
+					onclick="location.href='${contextPath}/board/board_list.do?page=${page}'" >
+		</c:if>
+		<!-- 검색인 경우 -->
+		<c:if test="${searchYN == 'y'}">
+			<input type="button" class="btn btn-primary mr-3" value="이전 페이지"
+					onclick="location.href='${contextPath}/board/board_search_list.do?search_page=${page}
+							&search_kind=${searchVO.searchKind}&search_word=${searchVO.searchWord}'">
+		</c:if>
 			<!-- onclick="history.go(-1)">  -->
 <!-- 		onclick="history.back()">  -->
 		<input type="button" class="btn btn-primary mr-3" value="게시글 수정"
