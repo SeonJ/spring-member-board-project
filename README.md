@@ -123,8 +123,8 @@ div.HStyle17
 
 <BODY>
 	
-	<p> 프로젝트 실행 영상 </p>
-	<a href="https://github.com/SeonJ/spring-member-board-project/blob/master/show/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%8B%A4%ED%96%89%20%EC%98%81%EC%83%81.mkv">
+<p class=HStyle0> 프로젝트 실행 영상 </p>
+<a href="https://github.com/SeonJ/spring-member-board-project/blob/master/show/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%8B%A4%ED%96%89%20%EC%98%81%EC%83%81.mkv">
 	
 <P class=HStyle0>- 프로젝트 roadmap</P>
 <img src="https://github.com/James-Lee/spring_member_board_project/blob/main/show/roadmap.PNG"><br>
