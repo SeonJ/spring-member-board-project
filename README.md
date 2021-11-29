@@ -138,6 +138,9 @@ div.HStyle17
 <P class=HStyle0>- 프로젝트 ERD-board</P>
 <img src="https://github.com/SeonJ/spring-member-board-project/blob/master/show/board_table.PNG"><br>
 	
+<P class=HStyle0>- 프로젝트 URL-mappings</P>
+<img src="https://github.com/SeonJ/spring-member-board-project/blob/master/show/url_mappings.PNG"><br>
+	
 <P class=HStyle0>- 프로젝트 roadmap</P>
 <img src="https://github.com/James-Lee/spring_member_board_project/blob/main/show/roadmap.PNG"><br>
 <P CLASS=HStyle0>- 프로젝트 specs</P>
