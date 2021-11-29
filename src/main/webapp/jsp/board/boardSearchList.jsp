@@ -33,8 +33,7 @@
 			<c:forEach var="board" items="${boardList }">
 				<tr class="record">
 					<td>${board.num }</td>
-					<td><a href="${contextPath}/board/board_view.do?num=${board.num}&page=${pageDTO.page}
-								&search_kind=${searchVO.searchKind}&search_word=${searchVO.searchWord}&search_YN=Y">
+					<td><a href="${contextPath}/board/board_view.do?num=${board.num}&page=${pageDTO.page}&search_kind=${searchVO.searchKind}&search_word=${searchVO.searchWord}&search_YN=Y">
 							${board.title } </a></td>
 					<td>${board.name}</td>
 					<td><fmt:formatDate value="${board.writedate }" /></td>
