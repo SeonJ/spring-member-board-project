@@ -124,7 +124,19 @@ div.HStyle17
 <BODY>
 	
 <p class=HStyle0> 프로젝트 실행 영상 </p>
-<a href="https://github.com/SeonJ/spring-member-board-project/blob/master/show/프로젝트 실행 영상.mkv" />
+<a href="https://github.com/SeonJ/spring-member-board-project/blob/master/show/프로젝트 실행 영상.mkv" /><br>
+
+<P class=HStyle0>- 프로젝트 servlet-context</P>
+<img src="https://github.com/SeonJ/spring-member-board-project/blob/master/show/servlet-context.PNG"><br>
+	
+<P class=HStyle0>- 프로젝트 root-context</P>
+<img src="https://github.com/SeonJ/spring-member-board-project/blob/master/show/root-context.PNG"><br>
+	
+<P class=HStyle0>- 프로젝트 ERD-member2</P>
+<img src="https://github.com/SeonJ/spring-member-board-project/blob/master/show/member2_table.PNG"><br>
+	
+<P class=HStyle0>- 프로젝트 ERD-board</P>
+<img src="https://github.com/SeonJ/spring-member-board-project/blob/master/show/board_table.PNG"><br>
 	
 <P class=HStyle0>- 프로젝트 roadmap</P>
 <img src="https://github.com/James-Lee/spring_member_board_project/blob/main/show/roadmap.PNG"><br>
