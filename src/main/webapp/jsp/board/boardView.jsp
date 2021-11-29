@@ -50,8 +50,7 @@
 		<!-- 검색인 경우 -->
 		<c:if test="${searchYN == 'Y'}">
 			<input type="button" class="btn btn-primary mr-3" value="이전 페이지"
-					onclick="location.href='${contextPath}/board/board_search_list.do?search_page=${page}
-							&search_kind=${searchVO.searchKind}&search_word=${searchVO.searchWord}'">
+					onclick="location.href='${contextPath}/board/board_search_list.do?search_page=${page}&search_kind=${searchVO.searchKind}&search_word=${searchVO.searchWord}'">
 		</c:if>
 			<!-- onclick="history.go(-1)">  -->
 <!-- 		onclick="history.back()">  -->
