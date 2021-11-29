@@ -124,7 +124,7 @@ div.HStyle17
 <BODY>
 	
 <p class=HStyle0> 프로젝트 실행 영상 </p>
-<a href="https://github.com/SeonJ/spring-member-board-project/blob/master/show/프로젝트 실행 영상.mkv" /><br>
+<src="https://github.com/SeonJ/spring-member-board-project/blob/master/show/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%8B%A4%ED%96%89%20%EC%98%81%EC%83%81.mkv" /><br>
 
 <P class=HStyle0>- 프로젝트 servlet-context</P>
 <img src="https://github.com/SeonJ/spring-member-board-project/blob/master/show/servlet-context.PNG"><br>
